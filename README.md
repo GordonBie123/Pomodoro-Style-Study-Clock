@@ -20,7 +20,4 @@ A Pomodoro-style timer web application built with Streamlit for focused study se
 4. Open your browser to the displayed URL
 
 ## Live Demo
-
-[Deploy to Streamlit Community Cloud](https://share.streamlit.io) for instant access.
-
-Perfect for students, professionals, or anyone looking to improve their focus and productivity through structured study sessions.
+https://pomodoro-style-study-clock-ptuj7qyz9ytqcgrefzmbnq.streamlit.app/
